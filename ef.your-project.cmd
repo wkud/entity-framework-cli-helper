@@ -1,4 +1,4 @@
-@echo on
+@echo off
 
 REM Settings
 set project="Infrastructure"
